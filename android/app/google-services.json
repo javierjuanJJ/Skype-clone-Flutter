@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685293096516",
+    "project_id": "skype-clone-flutter-a1aee",
+    "storage_bucket": "skype-clone-flutter-a1aee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685293096516:android:b778c57eb1572071b97611",
+        "android_client_info": {
+          "package_name": "com.example.skype_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685293096516-bhkjbafm32elcug5pt62fqotmrrimr18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDay5-BAZJWfc05OWqS6R7vxTnPQhsP0YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685293096516-bhkjbafm32elcug5pt62fqotmrrimr18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
